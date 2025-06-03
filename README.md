@@ -67,9 +67,3 @@ O gráfico de dispersão entre valores reais e previstos mostrou uma boa aproxim
 - A regressão linear foi eficaz, mas modelos não lineares (como árvore de decisão ou random forest) podem capturar interações e melhorar ainda mais a performance.
 
 ---
-
-## ✅ Recomendações Futuras
-
-- Explorar modelos mais complexos (ex: `RandomForestRegressor`, `XGBoost`)
-- Fazer engenharia de variáveis (ex: categorizar idade ou IMC)
-- Aplicar regularização (`Ridge`, `Lasso`) para reduzir overfitting se necessário
