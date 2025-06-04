@@ -1,6 +1,9 @@
 
 # 📝 Relatório Técnico — Previsão de Encargos Médicos com Regressão Linear
 
+## 📽️ Vídeo da solução:
+O vídeo apresentando a solução pode ser visualizado por meio desse link: https://youtu.be/vyn9B14V8eE
+
 ## 🎯 Objetivo
 Desenvolver um modelo preditivo de regressão para estimar os **encargos médicos individuais** com base em variáveis demográficas e comportamentais como idade, IMC, número de filhos, gênero, hábito de fumar e região.
 
