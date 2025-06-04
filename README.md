@@ -40,9 +40,9 @@ Essas variáveis se mostraram as mais relevantes para prever os encargos, especi
 - Algoritmo: `LinearRegression` do scikit-learn.
 
 ### 📈 Resultados
-- **MSE (Erro Quadrático Médio):** _valor exibido na execução_
-- **MAE (Erro Absoluto Médio):** _valor exibido na execução_
-- **R² (Coeficiente de Determinação):** _valor exibido na execução_
+- **MSE (Erro Quadrático Médio):** 0.939080444032257
+- **MAE (Erro Absoluto Médio):** 1240.0834440341118
+- **R² (Coeficiente de Determinação):** 0.939080444032257
 
 ### 📊 Gráfico Real vs Previsto
 O gráfico de dispersão entre valores reais e previstos mostrou uma boa aproximação à linha ideal, com dispersão controlada — reforçando que o modelo consegue capturar a tendência dos dados.
